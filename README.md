@@ -36,7 +36,6 @@
  * 프로젝트 설명 : 중력을 바꾸어가며 stage 클리어하는 플랫폼 게임 (Android)
  * 팀원 : 윤치호, 장우진(캐릭터 디자인)
  * 사용프로그램 : UNITY (C#)
- ![로고](Readme/Unity.PNG)
  
  * 게임 실행 영상(https://www.youtube.com/watch?v=NZiZURiTpno)
  * 게임 다운로드 링크(https://play.google.com/store/apps/details?id=com.CHHO.UPSIDEDOWN)
