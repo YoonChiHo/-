@@ -21,7 +21,7 @@
  * 팀명 : 팀 리듬코딩
  * 팀원 : 윤치호(메인코딩), 장우진(서브코딩,디자인), 박지환(기획)
  * 사용 프로그램 : UNITY (C#)
- ![로고](Readme/UNITY.PNG)
+ ![로고](Readme/Unity.PNG)
  * 프로젝트 실행영상
  
  [![Video Label](http://img.youtube.com/vi/sYgiWUvvGiQ/0.jpg)](https://www.youtube.com/watch?v=sYgiWUvvGiQ)
@@ -36,7 +36,7 @@
  * 프로젝트 설명 : 중력을 바꾸어가며 stage 클리어하는 플랫폼 게임 (Android)
  * 팀원 : 윤치호, 장우진(캐릭터 디자인)
  * 사용프로그램 : UNITY (C#)
- ![로고](Readme/UNITY.PNG)
+ ![로고](Readme/Unity.PNG)
  
  * 게임 실행 영상(https://www.youtube.com/watch?v=NZiZURiTpno)
  * 게임 다운로드 링크(https://play.google.com/store/apps/details?id=com.CHHO.UPSIDEDOWN)
