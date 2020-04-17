@@ -17,11 +17,12 @@
 
 # 활동내용[팀 리듬코딩]
  * 프로젝트 설명 : 리듬게임과 코딩을 합쳐 재밌게 코딩을 공부할 수 있는 게임. (PC)  
- **(19.11.20) 최우수상 수상** 
+
  * 팀명 : 팀 리듬코딩
  * 팀원 : 윤치호(메인코딩), 장우진(서브코딩,디자인), 박지환(기획)
  * 사용 프로그램 : UNITY (C#)
- ![로고](Readme/Unity.PNG)
+ ![로고](Readme/Unity.PNG)]
+ * 수상경력 :  **경북대학교 2019 IT대학 코드페어 (19.11.20) 최우수상 수상**  
  * 프로젝트 실행영상
  
  [![Video Label](http://img.youtube.com/vi/sYgiWUvvGiQ/0.jpg)](https://www.youtube.com/watch?v=sYgiWUvvGiQ)
