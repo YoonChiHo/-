@@ -4,9 +4,10 @@
       2) 실내 -> 실외로 이동시 작동되는 푸쉬 알림 기능  
       3) 사용자의 이동 경로 추적 및 GPS기능  
       4) 기후 맞춤형 추천 팝업 기능 
- * 수상경력 : **2019 스타트업 해커톤 (19.09.28) 최우수상 수상** 
  * 팀명 : 데브그루 (경북대학교 코딩동아리 해달 소속)
  * 팀원 : 김성록(대표), 윤치호(개발), 이준병(개발),  이준기(기획), 장우진(디자인)
+ * 사용 프로그램 : ANDROID STUDIO (C++)
+ * 수상경력 : **2019 스타트업 해커톤 (19.09.28) 최우수상 수상** 
  * 프로젝트 실행영상
  
  [![Video Label](http://img.youtube.com/vi/vB9AT9OazP4/0.jpg)](https://www.youtube.com/watch?v=vB9AT9OazP4)
@@ -19,6 +20,8 @@
  **(19.11.20) 최우수상 수상** 
  * 팀명 : 팀 리듬코딩
  * 팀원 : 윤치호(메인코딩), 장우진(서브코딩,디자인), 박지환(기획)
+ * 사용 프로그램 : UNITY (C#)
+ ![로고](Readme/UNITY.PNG)
  * 프로젝트 실행영상
  
  [![Video Label](http://img.youtube.com/vi/sYgiWUvvGiQ/0.jpg)](https://www.youtube.com/watch?v=sYgiWUvvGiQ)
@@ -32,6 +35,9 @@
 ![로고](Readme/ud1.png)
  * 프로젝트 설명 : 중력을 바꾸어가며 stage 클리어하는 플랫폼 게임 (Android)
  * 팀원 : 윤치호, 장우진(캐릭터 디자인)
+ * 사용프로그램 : UNITY (C#)
+ ![로고](Readme/UNITY.PNG)
+ 
  * 게임 실행 영상(https://www.youtube.com/watch?v=NZiZURiTpno)
  * 게임 다운로드 링크(https://play.google.com/store/apps/details?id=com.CHHO.UPSIDEDOWN)
  * 관련사진.
