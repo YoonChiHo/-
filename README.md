@@ -9,7 +9,7 @@
  * 팀원 : 김성록(대표), 윤치호(개발), 이준병(개발),  이준기(기획), 장우진(디자인)
  * 게임 실행 영상
  
- [![Video Label](http://img.youtube.com/vi/sYgiWUvvGiQ/0.jpg)](https://www.youtube.com/watch?v=sYgiWUvvGiQ) Video Label
+ [![Video Label](http://img.youtube.com/vi/vB9AT9OazP4/0.jpg)](https://www.youtube.com/watch?v=vB9AT9OazP4)
  * 게임 관련사진
  
  ![로고](Readme/am1.PNG)![로고](Readme/am2.PNG)![로고](Readme/am3.PNG)
@@ -21,7 +21,7 @@
  * 팀원 : 윤치호(메인코딩), 장우진(서브코딩,디자인), 박지환(기획)
  * 게임 실행 영상
  
- [![Video Label](http://img.youtube.com/vi/sYgiWUvvGiQ/0.jpg)](https://www.youtube.com/watch?v=sYgiWUvvGiQ) Video Label
+ [![Video Label](http://img.youtube.com/vi/sYgiWUvvGiQ/0.jpg)](https://www.youtube.com/watch?v=sYgiWUvvGiQ)
  * 게임 관련사진
  
  ![로고](Readme/rc1.PNG)![로고](Readme/rc2.PNG)![로고](Readme/rc3.PNG)
